@@ -42,3 +42,4 @@ npm run dev 运行项目
 
 npm install -g yarn
 
+yarn dev
