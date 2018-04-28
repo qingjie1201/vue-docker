@@ -34,7 +34,9 @@ cd D:\vue-develop\project\vue-docker
 
 npm install 或者 cnpm install 下载依赖
 
-npm run dev 运行项目
+## 运行项目
+
+npm run dev
 
 访问 http://localhost:8080
 
@@ -43,3 +45,7 @@ npm run dev 运行项目
 npm install -g yarn
 
 yarn dev
+
+## 打包发布文件
+
+npm run build
